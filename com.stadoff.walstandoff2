@@ -1,6 +1,6 @@
 {"ads":{
   
-  "ShowAds":true,
+  "ShowAds":false,
   "ClickCount":1,
    "ShowLoadingAds":true,
   "Redirect_link":"https://www.google.com",
