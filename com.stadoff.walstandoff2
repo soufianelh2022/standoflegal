@@ -1,7 +1,7 @@
 {"ads":{
   
-  "ShowAds":false,
-  "ClickCount":1,
+  "ShowAds":true,
+  "ClickCount":2,
    "ShowLoadingAds":true,
   "Redirect_link":"https://www.google.com",
 
@@ -9,10 +9,10 @@
   
 
   
-  "openadyandex":"demo-appopenad-yandex",
-  "yandex_inter":"demo-interstitial-yandex",
-  "yandex_banner":"demo-banner-yandex",
-  "yandex_native":"demo-native-app-yandex",
+  "openadyandex":"R-M-8780810-5",
+  "yandex_inter":"R-M-8780810-3",
+  "yandex_banner":"R-M-8780810-1",
+  "yandex_native":"R-M-8780810-2",
   
   
   "MaxBanner": "7c217530b37da6db",
