@@ -20,10 +20,10 @@
   "MaxInterstitial": "62c68051fd4aff27",
   "Maxopen":"2947d48185c67d04",
   
-  "PriorityBanner":"max",
-  "PriorityNative":"max",
-  "PriorityOpen":"max",
-  "priorityInterstitial":"max"
+  "PriorityBanner":"yandex",
+  "PriorityNative":"yandex",
+  "PriorityOpen":"yandex",
+  "priorityInterstitial":"yandex"
  
 
   
